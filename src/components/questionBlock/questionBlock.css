@@ -1,0 +1,21 @@
+.questionLi {
+    display: flex;
+    margin-bottom: 1rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px 7px;
+    background-color: rgb(241, 224, 203);
+}
+
+.questionLabel {
+    display: block;
+    width: 900px;
+}
+
+.questionInput {
+    display: block;
+}
+
+.questionUl{
+    padding-left: 15px;
+}
